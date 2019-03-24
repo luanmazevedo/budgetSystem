@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+myvenv
+/static
+.DS_Store
+03-2018.xlsx
+04-2018.xlsx
+18-03-2019.xlsx
+18-04-2019.xlsx
+Tables.sql
